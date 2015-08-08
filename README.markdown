@@ -19,6 +19,7 @@
     # Rails/DB setup
     bundle install
     rake db:setup
+    rails generate simple_form:install
 
     # Create unique, local secret
     echo "SECRET_KEY_BASE="(rake secret) > .env
