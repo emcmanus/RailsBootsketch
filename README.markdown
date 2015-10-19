@@ -1,6 +1,6 @@
 ### Get Started - FishFish Shell
 
-    # Only configure this first line
+    # Only configure this first line. Must start with upper case letter.
     set BOOTSKETCH_NAME YourNewProjectName
 
     # The rest should be safe to copy & paste...
